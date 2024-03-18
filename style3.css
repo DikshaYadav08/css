@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;}
+.wrapper{
+	width: 600px;
+	margin: 50px auto;
+
+}
+.main{width: 100%;
+float: left;
+border5px solid gray;
+}
+.main img{
+	width: 250px;
+float: left;
+margin: 15px 10px 0px 25px;
+
+}
+.main h1{ text-align:center;
+	margin-top:25px }
+	article{
+		margin:25px;
+		width:275px;
+		float:left;
+	}

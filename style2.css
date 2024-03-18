@@ -1,0 +1,9 @@
+*{
+	margin: 0;
+	padding: 0;}
+.box{
+	width:100vw;
+	height:100vw;
+	background: url(d..jpg),linear-gradient(red,aqua,yellow);
+	background-size:cover;
+	background-blend-mode: multiply;}

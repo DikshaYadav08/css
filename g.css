@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div.main{
+	width: 600px;
+	margin: 0px auto;
+	border-radius: 50px;
+	overflow: hidden;
+}
+div.nain h1{
+	width: 100%;
+	text-align: center;
+	font-family: tahoma;
+	font-size:40px ;
+	background-color: red;
+	color:#fff;
+}
+div.main img{
+	float: left;
+	outline: #fff solid 5px;
+	outline-offset: -5px;}
+div.main img.simg{
+	float: right;
+
+}
